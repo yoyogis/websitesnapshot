@@ -1,0 +1,23 @@
+{
+  "name": "websitesnapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websitesnap.js",
+  "scripts": {
+    "start":"phantomjs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyogis/websitesnapshot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoyogis/websitesnapshot/issues"
+  },
+  "homepage": "https://github.com/yoyogis/websitesnapshot#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
